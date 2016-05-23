@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: post
+title: "Test math"
+author: Freemate
+category: misc
+tags: [test]
+use_math: true
 ---
 {% include JB/setup %}
 
