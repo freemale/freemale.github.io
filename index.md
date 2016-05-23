@@ -2,9 +2,6 @@
 layout: post
 title: "Test math"
 author: Freemate
-category: misc
-tags: [test]
-use_math: true
 ---
 {% include JB/setup %}
 {% include mathjax_support %}
@@ -19,7 +16,7 @@ In `_config.yml` remember to specify your own data:
     title : My Blog =)
     
     author :
-      name : Name Lastname
+      name : Freemate Lastname
       email : blah@email.test
       github : username
       twitter : username
