@@ -11,7 +11,7 @@ use_math: true
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
+Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
